@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Dragutin Oreški
+
+I'm a data enthusiast interested in Data Visualization and Image recognition. I'm currently working as a Data Engineer supporting the ETL process. 
 
 <!--
 **dragutin-oreski/dragutin-oreski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
