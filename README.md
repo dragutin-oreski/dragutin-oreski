@@ -5,6 +5,10 @@
 
 - 👯 I’m looking to collaborate on **GANs**
 
+<h3 align="left">Certificates: </h3>
+<a href="https://coursera.org/share/800bab184549d6fc6e7c6578857ad26f">Interactive Machine Learning Dashboards using Plotly Dash</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dragutinoreski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragutinoreski" height="30" width="40" /></a>
