@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dragutin Oreški</h1>
-<h3 align="center">I'm a data enthusiast interested in Data Visualization and Image recognition. I'm currently working as a Data Engineer supporting the ETL process.</h3>
+<h3 align="center">I'm a data enthusiast currently working as a Data Engineer supporting the ETL process.</h3>
 
-- 🔭 I’m currently working on **Data Visualization**
+- 🔭 I love solving algorithmic problems on **LeetCode**
 
-- 👯 I’m looking to collaborate on **GANs**
+- 👯 I’m looking to completing more **Kaggle competitions**
 
 <h3 align="left">Certificates: </h3>
 <a href="https://coursera.org/share/800bab184549d6fc6e7c6578857ad26f">Interactive Machine Learning Dashboards using Plotly Dash</a>
