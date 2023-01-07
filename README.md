@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dragutin Oreški</h1>
 <h3 align="center">I'm a data enthusiast currently working as a Data Engineer supporting the ETL process.</h3>
 
-- 🔭 I love solving algorithmic problems on **LeetCode**
+- 🔭 I love solving algorithmic problems on **Advent of Code** and **LeetCode**
 
 - 👯 I’m looking to completing more **Kaggle competitions**
 
 <h3 align="left">Certificates: </h3>
+<a href="https://coursera.org/share/2ed5873562c9cede910b17c03956d04f">Neural Networks and Deep Learning</a>
+
 <a href="https://coursera.org/share/800bab184549d6fc6e7c6578857ad26f">Interactive Machine Learning Dashboards using Plotly Dash</a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dragutinoreski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragutinoreski" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dragutinoreski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dragutinoreski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
