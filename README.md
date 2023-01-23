@@ -8,6 +8,8 @@
 <h3 align="left">Certificates: </h3>
 <a href="https://coursera.org/share/2ed5873562c9cede910b17c03956d04f">Neural Networks and Deep Learning</a>
 
+<a href="https://coursera.org/share/74bc0fbff5cebf4a46df76ec05ddc734">Creating a Personal Site with Gatsby</a>
+
 <a href="https://coursera.org/share/800bab184549d6fc6e7c6578857ad26f">Interactive Machine Learning Dashboards using Plotly Dash</a>
 
 
