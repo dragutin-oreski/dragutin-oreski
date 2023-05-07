@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dragutin Oreški</h1>
-<h3 align="center">I'm a data enthusiast currently working as a Data Engineer supporting the ETL process.</h3>
+<h3 align="center">I'm a data enthusiast currently working as a Data Engineer supporting the ELT process.</h3>
 
 - 🔭 I love solving algorithmic problems on **Advent of Code** and **LeetCode**
 
