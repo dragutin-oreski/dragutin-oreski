@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dragutin Oreški</h1>
-<p align="center">
-  I'm a data enthusiast currently working as a Data Engineer supporting the ELT process.<br>
-  Passionate about empowering others through mentoring and coaching
+<p align="left">
+  With a foundation in Data Engineering, I've recently been captivated by the transformative power of LLMs. I excel at consolidating data resources and building AI solutions that push the boundaries of what's possible.
+
+Beyond tech, my true calling is unlocking the potential within people – as a seasoned soft skills trainer and coach, I thrive on empowering individuals and teams to excel. 
 </p>
 
 <h3 align="left">🚀 About Me</h3>
@@ -12,7 +13,6 @@
 - 🗣️ Experienced soft skills trainer in emotional intelligence, motivation, leadership, communication and presentation skills
 - 🌟 Certified coach and dedicated to continuous growth in all aspects of life
 - 🔭 I love solving algorithmic problems on Advent of Code and LeetCode
-- 👯 I’m looking to completing more Kaggle competitions
 
 <h3 align="left">🤖 Fun Facts</h3>
 
